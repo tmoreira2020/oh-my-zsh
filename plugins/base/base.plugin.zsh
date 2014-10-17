@@ -2,6 +2,7 @@ alias ls="ls -hlG"
 alias cp="cp -rv"
 alias rm="rm -rv"
 alias mv="mv -v"
+alias subl="/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl"
 
 function cl () {
     if [ $# = 0 ]; then
